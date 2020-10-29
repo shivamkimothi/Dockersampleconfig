@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dockersampleconfig", "Dockersampleconfig.csproj", "{410470B0-174C-42C7-BDD4-6F0D5199BFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410470B0-174C-42C7-BDD4-6F0D5199BFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410470B0-174C-42C7-BDD4-6F0D5199BFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410470B0-174C-42C7-BDD4-6F0D5199BFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410470B0-174C-42C7-BDD4-6F0D5199BFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D744CB5F-453E-41C9-942B-1A21E50F6A99}
+	EndGlobalSection
+EndGlobal
